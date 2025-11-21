@@ -59,8 +59,4 @@ export const companies = [
     name: "FastPixLogo",
     logo: "TieupCompany/FastPixLogo.webp",
   },
-  {
-    name: "Accenture",
-    logo: "https://logo.clearbit.com/accenture.com",
-  },
 ];
