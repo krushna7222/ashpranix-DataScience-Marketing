@@ -1,70 +1,11 @@
 export const companies = [
-
-  // {
-  //   name: "Wipro",
-  //   logo: "https://logo.clearbit.com/wipro.com",
-  // },
-  // {
-  //   name: "TCS",
-  //   logo: "https://logo.clearbit.com/tcs.com",
-  // },
-  // {
-  //   name: "Infosys",
-  //   logo: "https://logo.clearbit.com/infosys.com",
-  // },
-  // {
-  //   name: "Accenture",
-  //   logo: "https://logo.clearbit.com/accenture.com",
-  // },
-  // {
-  //   name: "Cognizant",
-  //   logo: "https://logo.clearbit.com/cognizant.com",
-  // },
-  
-  // {
-  //   name: "Wipro",
-  //   logo: "https://logo.clearbit.com/wipro.com",
-  // },
-  // {
-  //   name: "TCS",
-  //   logo: "https://logo.clearbit.com/tcs.com",
-  // },
-  // {
-  //   name: "Infosys",
-  //   logo: "https://logo.clearbit.com/infosys.com",
-  // },
-  // {
-  //   name: "Accenture",
-  //   logo: "https://logo.clearbit.com/accenture.com",
-  // },
-  // {
-  //   name: "Cognizant",
-  //   logo: "https://logo.clearbit.com/cognizant.com",
-  // },
-  
-  // {
-  //   name: "Wipro",
-  //   logo: "https://logo.clearbit.com/wipro.com",
-  // },
-  // {
-  //   name: "TCS",
-  //   logo: "https://logo.clearbit.com/tcs.com",
-  // },
-  // {
-  //   name: "Infosys",
-  //   logo: "https://logo.clearbit.com/infosys.com",
-  // },
-  // {
-  //   name: "Accenture",
-  //   logo: "https://logo.clearbit.com/accenture.com",
-  // },
-  // {
-  //   name: "Cognizant",
-  //   logo: "https://logo.clearbit.com/cognizant.com",
-  // },
    {
     name: "CarDekho",
     logo: "TieupCompany/CarDekho.webp",
+  },
+  {
+    name: "Cognizant",
+    logo: "https://logo.clearbit.com/cognizant.com",
   },
    {
     name: "EClerx",
@@ -74,6 +15,10 @@ export const companies = [
     name: "Blinkit",
     logo: "TieupCompany/Blinkit.webp",
   },
+  {
+    name: "Wipro",
+    logo: "https://logo.clearbit.com/wipro.com",
+  },
    {
     name: "EaseMyTrip",
     logo: "TieupCompany/EaseMyTrip.webp",
@@ -81,6 +26,10 @@ export const companies = [
    {
     name: "HDFC",
     logo: "TieupCompany/HDFC.webp",
+  },
+  {
+    name: "Infosys",
+    logo: "https://logo.clearbit.com/infosys.com",
   },
    {
     name: "Hitachi",
@@ -90,9 +39,17 @@ export const companies = [
     name: "PeopleTech",
     logo: "TieupCompany/PeopleTech.webp",
   },
+    {
+    name: "Accenture",
+    logo: "https://logo.clearbit.com/accenture.com",
+  },
    {
     name: "ThoughtSoft",
     logo: "TieupCompany/ThoughtSoft.webp",
+  },
+  {
+    name: "TCS",
+    logo: "https://logo.clearbit.com/tcs.com",
   },
    {
     name: "RevInfoTech",
@@ -101,5 +58,9 @@ export const companies = [
    {
     name: "FastPixLogo",
     logo: "TieupCompany/FastPixLogo.webp",
+  },
+  {
+    name: "Accenture",
+    logo: "https://logo.clearbit.com/accenture.com",
   },
 ];
