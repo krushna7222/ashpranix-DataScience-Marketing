@@ -56,11 +56,11 @@ const CareerTransformation: React.FC = () => {
   return (
     <section className="w-full bg-gray-50 py-10 sm:py-14 flex flex-col items-center">
       <div className="max-w-6xl w-full px-4 sm:px-6">
-        <div className="mb-6 sm:mb-8">
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-slate-900">
+        <div className="mb-8 text-center">
+          <h2 className="mt-5 text-4xl md:text-5xl font-extrabold text-gray-900 tracking-tight">
             Career Transformation
           </h2>
-          <p className="mt-1 text-sm text-slate-600">
+          <p className="mt-3 text-gray-600 text-sm sm:text-base md:text-lg max-w-3xl mx-auto leading-relaxed">
             Freshers trained & placed — real stories.
           </p>
         </div>
