@@ -9,10 +9,7 @@ const Courses = () => {
 
   const getCategoryColor = (category: string) => {
     const colors: { [key: string]: string } = {
-      Frontend: "bg-blue-500/10 text-blue-700 border-blue-500/20",
-      Backend: "bg-green-500/10 text-green-700 border-green-500/20",
-      Database: "bg-yellow-500/10 text-yellow-700 border-yellow-500/20",
-      Programming: "bg-purple-500/10 text-purple-700 border-purple-500/20",
+      Data_Science: "bg-blue-500/10 text-blue-700 border-blue-500/20",
     };
     return colors[category] || "bg-muted text-muted-foreground";
   };

@@ -10,15 +10,15 @@
 
 // export const courses: Course[] = [
   
-//   // -------------------- DATA SCIENCE MODULES --------------------
+//   // -------------------- Data_Science MODULES --------------------
 
 // {
 //   id: "data-science-fundamentals",
-//   name: "Data Science Fundamentals",
-//   category: "Data Science",
+//   name: "Data_Science Fundamentals",
+//   category: "Data_Science",
 //   duration: "4 Weeks",
 //   description:
-//     "Learn the essential foundations of data science including Python, data analysis, statistics, and visualization.",
+//     "Learn the essential foundations of Data_Science including Python, data analysis, statistics, and visualization.",
 //   details: [
 //     "Python Basics: Variables, loops, functions, data types",
 //     "NumPy: Array operations, broadcasting, reshaping",
@@ -39,7 +39,7 @@
 // {
 //   id: "machine-learning-ai",
 //   name: "Machine Learning & AI",
-//   category: "Data Science",
+//   category: "Data_Science",
 //   duration: "4 Weeks",
 //   description:
 //     "Master machine learning algorithms, model training, hyperparameter tuning, and end-to-end ML workflows.",
@@ -63,7 +63,7 @@
 // {
 //   id: "deep-learning-mlops",
 //   name: "Deep Learning & MLOps",
-//   category: "Data Science",
+//   category: "Data_Science",
 //   duration: "5 Weeks",
 //   description:
 //     "Learn advanced deep learning using neural networks, CNN, RNN, and deploy models with MLOps pipelines.",
@@ -99,15 +99,15 @@ export interface Course {
 
 export const courses: Course[] = [
 
-  // -------------------- DATA SCIENCE MODULES --------------------
+  // -------------------- Data_Science MODULES --------------------
 
   {
     id: "data-science-fundamentals",
     name: "Data Science Fundamentals",
-    category: "Data Science",
+    category: "Data_Science",
     duration: "4 Weeks",
     description:
-      "Learn the essential foundations of data science including Python, data analysis, statistics, and visualization.",
+      "Learn the essential foundations of Data Science including Python, data analysis, statistics, and visualization.",
     details: [
       "Python Basics: Variables, loops, functions, data types",
       "NumPy: Array operations, broadcasting, reshaping",
@@ -128,7 +128,7 @@ export const courses: Course[] = [
   {
     id: "machine-learning-ai",
     name: "Machine Learning & AI",
-    category: "Data Science",
+    category: "Data_Science",
     duration: "4 Weeks",
     description:
       "Master machine learning algorithms, model training, hyperparameter tuning, and end-to-end ML workflows.",
@@ -152,7 +152,7 @@ export const courses: Course[] = [
   {
     id: "deep-learning-mlops",
     name: "Deep Learning & MLOps",
-    category: "Data Science",
+    category: "Data_Science",
     duration: "5 Weeks",
     description:
       "Learn advanced deep learning using neural networks, CNN, RNN, and deploy models with MLOps pipelines.",
@@ -178,7 +178,7 @@ export const courses: Course[] = [
   {
     id: "data-engineering-bigdata",
     name: "Data Engineering & Big Data",
-    category: "Data Science",
+    category: "Data_Science",
     duration: "4 Weeks",
     description:
       "Learn to build and manage large-scale data pipelines, ETL workflows, real-time processing, and distributed systems.",
@@ -204,7 +204,7 @@ export const courses: Course[] = [
   {
     id: "business-analytics-visualization",
     name: "Business Analytics & Data Visualization",
-    category: "Data Science",
+    category: "Data_Science",
     duration: "3 Weeks",
     description:
       "Master BI tools, dashboarding, insights generation, and data storytelling to solve business problems effectively.",
@@ -229,7 +229,7 @@ export const courses: Course[] = [
   {
     id: "nlp-genai-advanced",
     name: "Advanced NLP & Generative AI",
-    category: "Data Science",
+    category: "Data_Science",
     duration: "4 Weeks",
     description:
       "Build NLP applications, transformers, LLM-based systems, and text-processing AI pipelines using GenAI tools.",
